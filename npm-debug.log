@@ -1,0 +1,121 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@2.15.1
+3 info using node@v4.4.4
+4 verbose readDependencies loading dependencies from /Users/Lavender/Desktop/image-editor/package.json
+5 warn package.json image-editor@1.0.0 No repository field.
+6 warn package.json image-editor@1.0.0 No README data
+7 verbose install where, deps [ '/Users/Lavender/Desktop/image-editor',
+7 verbose install   [ 'react',
+7 verbose install     'react-dom',
+7 verbose install     'babel-core',
+7 verbose install     'babel-loader',
+7 verbose install     'babel-plugin-add-module-exports',
+7 verbose install     'babel-plugin-react-html-attrs',
+7 verbose install     'babel-plugin-transform-decorators-legacy',
+7 verbose install     'babel-preset-es2015',
+7 verbose install     'babel-preset-react',
+7 verbose install     'babel-preset-stage-0',
+7 verbose install     'html-webpack-plugin',
+7 verbose install     'webpack' ] ]
+8 verbose install where, peers [ '/Users/Lavender/Desktop/image-editor', [] ]
+9 verbose installManyTop reading for lifecycle /Users/Lavender/Desktop/image-editor/package.json
+10 info preinstall image-editor@1.0.0
+11 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-core/package.json
+12 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-loader/package.json
+13 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-plugin-add-module-exports/package.json
+14 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-plugin-react-html-attrs/package.json
+15 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-plugin-transform-decorators-legacy/package.json
+16 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-preset-es2015/package.json
+17 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-preset-react/package.json
+18 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-preset-stage-0/package.json
+19 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/html-webpack-plugin/package.json
+20 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/react/package.json
+21 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/react-dom/package.json
+22 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/webpack/package.json
+23 verbose installManyTop reading scoped package data from /Users/Lavender/Desktop/image-editor/node_modules/webpack-server/package.json
+24 info package.json webpack-server@0.1.2 No repository field.
+25 verbose readDependencies loading dependencies from /Users/Lavender/Desktop/image-editor/package.json
+26 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-core/package.json
+27 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-loader/package.json
+28 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-plugin-add-module-exports/package.json
+29 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-plugin-react-html-attrs/package.json
+30 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-plugin-transform-decorators-legacy/package.json
+31 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-preset-es2015/package.json
+32 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-preset-react/package.json
+33 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/babel-preset-stage-0/package.json
+34 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/html-webpack-plugin/package.json
+35 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/react/package.json
+36 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/react-dom/package.json
+37 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/webpack/package.json
+38 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/webpack-server/package.json
+39 verbose targetResolver reading package data from /Users/Lavender/Desktop/image-editor/node_modules/.bin/webpack/package.json
+40 verbose already installed skipping babel-plugin-transform-decorators-legacy@^1.3.4 /Users/Lavender/Desktop/image-editor
+41 verbose already installed skipping babel-preset-es2015@^6.9.0 /Users/Lavender/Desktop/image-editor
+42 verbose already installed skipping babel-preset-react@^6.11.1 /Users/Lavender/Desktop/image-editor
+43 verbose already installed skipping babel-preset-stage-0@^6.5.0 /Users/Lavender/Desktop/image-editor
+44 verbose already installed skipping html-webpack-plugin@^2.22.0 /Users/Lavender/Desktop/image-editor
+45 verbose already installed skipping webpack@^1.13.1 /Users/Lavender/Desktop/image-editor
+46 verbose already installed skipping react@^15.2.1 /Users/Lavender/Desktop/image-editor
+47 verbose already installed skipping react-dom@^15.2.1 /Users/Lavender/Desktop/image-editor
+48 verbose already installed skipping babel-core@^6.10.4 /Users/Lavender/Desktop/image-editor
+49 verbose already installed skipping babel-loader@^6.2.4 /Users/Lavender/Desktop/image-editor
+50 verbose already installed skipping babel-plugin-add-module-exports@^0.2.1 /Users/Lavender/Desktop/image-editor
+51 verbose already installed skipping babel-plugin-react-html-attrs@^2.0.0 /Users/Lavender/Desktop/image-editor
+52 silly install resolved []
+53 info build /Users/Lavender/Desktop/image-editor
+54 info linkStuff image-editor@1.0.0
+55 silly linkStuff image-editor@1.0.0 has /Users/Lavender/Desktop as its parent node_modules
+56 verbose linkBins image-editor@1.0.0
+57 verbose linkMans image-editor@1.0.0
+58 verbose rebuildBundles image-editor@1.0.0
+59 verbose rebuildBundles [ '.bin',
+59 verbose rebuildBundles   'babel-core',
+59 verbose rebuildBundles   'babel-loader',
+59 verbose rebuildBundles   'babel-plugin-add-module-exports',
+59 verbose rebuildBundles   'babel-plugin-react-html-attrs',
+59 verbose rebuildBundles   'babel-plugin-transform-decorators-legacy',
+59 verbose rebuildBundles   'babel-preset-es2015',
+59 verbose rebuildBundles   'babel-preset-react',
+59 verbose rebuildBundles   'babel-preset-stage-0',
+59 verbose rebuildBundles   'html-webpack-plugin',
+59 verbose rebuildBundles   'react',
+59 verbose rebuildBundles   'react-dom',
+59 verbose rebuildBundles   'webpack',
+59 verbose rebuildBundles   'webpack-server' ]
+60 verbose rebuild bundle /Users/Lavender/Desktop/image-editor/node_modules/webpack-server
+61 info build /Users/Lavender/Desktop/image-editor/node_modules/webpack-server
+62 info preinstall webpack-server@0.1.2
+63 info linkStuff webpack-server@0.1.2
+64 silly linkStuff webpack-server@0.1.2 has /Users/Lavender/Desktop/image-editor/node_modules as its parent node_modules
+65 verbose linkBins webpack-server@0.1.2
+66 verbose linkMans webpack-server@0.1.2
+67 verbose rebuildBundles webpack-server@0.1.2
+68 verbose rebuildBundles [ '.bin', 'cli-color', 'express', 'handlebars', 'lodash' ]
+69 info install webpack-server@0.1.2
+70 info postinstall webpack-server@0.1.2
+71 info install image-editor@1.0.0
+72 info postinstall image-editor@1.0.0
+73 info prepublish image-editor@1.0.0
+74 verbose validateInstall loading /Users/Lavender/Desktop/image-editor/package.json for validation
+75 verbose stack Error: The package react@15.2.1 does not satisfy its siblings' peerDependencies requirements!
+75 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:125:32
+75 verbose stack     at /usr/local/lib/node_modules/npm/lib/install.js:268:7
+75 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:142:5
+75 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+75 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+75 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+75 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+75 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+75 verbose stack     at cb (/usr/local/lib/node_modules/npm/node_modules/slide/lib/async-map.js:47:24)
+75 verbose stack     at /usr/local/lib/node_modules/npm/node_modules/read-installed/read-installed.js:263:14
+76 verbose cwd /Users/Lavender/Desktop/image-editor
+77 error Darwin 15.5.0
+78 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install"
+79 error node v4.4.4
+80 error npm  v2.15.1
+81 error code EPEERINVALID
+82 error peerinvalid The package react@15.2.1 does not satisfy its siblings' peerDependencies requirements!
+82 error peerinvalid Peer react-dom@15.2.1 wants react@^15.2.1
+82 error peerinvalid Peer webpack-server@0.1.2 wants react@~0.9
+83 verbose exit [ 1, true ]
